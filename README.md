@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AES Encrypt and Decrypt on Cloudflare worker](https://shaokang.ga/2021/AES-Encrypt-and-Decrypt-on-Cloudflare-worker/)
+- [Financial organization phone app - stage 2](https://shaokang.ga/2021/projects/Financial-organization-phone-app-stage-2/)
+- [Simple Chat App](https://shaokang.ga/2021/projects/Simple-Chat-App/)
+- [Nlp.js in Expo usage](https://shaokang.ga/2021/Nlp-js-in-Expo-usage/)
+- [Publication for Financial website](https://shaokang.ga/2020/projects/Publication-of-Financial-website/)
 <!-- BLOG-POST-LIST:END -->
