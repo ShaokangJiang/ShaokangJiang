@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 ➡️ [more blog posts...](https://shaokang.ga/)
 
 ➡️ [See my resume...](https://resume.shaokang.ga/)
+
+➡️ [See all projects...](https://shaokang.ga/projects/)
