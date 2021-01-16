@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a senior in University of Wisconsin at Madison
-- 👯 I’m looking to collaborate on any type of research
 - 📫 How to reach me: sjiang97@wisc.edu
 
 ---
