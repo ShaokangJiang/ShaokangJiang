@@ -24,9 +24,12 @@ Here are some ideas to get you started:
 
 ### Skills: 
 
-**Coding**: Java, Python, C, HTML/CSS/Javascript, Jsp, Git, L A TEX, GAMS, Markdown, React, React Native, ejs
+**Coding**: ![Java](https://api.iconify.design/logos:java.svg), ![Python](https://api.iconify.design/logos:python.svg), ![C](https://api.iconify.design/logos:java.svg), ![HTML](https://api.iconify.design/logos:html-5.svg), ![CSS](https://api.iconify.design/el:css.svg), ![Javascript](https://api.iconify.design/ion:logo-javascript.svg), ![Jsp](https://api.iconify.design/vscode-icons:file-type-jsp.svg), ![Git](https://api.iconify.design/mdi:git.svg), ![Latex](https://api.iconify.design/file-icons:latex.svg), ![GAMS](https://api.iconify.design/file-icons:gams.svg), ![Markdown](https://api.iconify.design/ion:logo-markdown.svg), ![React](https://api.iconify.design/logos:react.svg), ![React Native](https://api.iconify.design/logos:react.svg), ![Expo](https://api.iconify.design/vscode-icons:file-type-light-expo.svg), ![ejs](https://api.iconify.design/file-icons:ejs.svg)
 
-**Technologies/Environment**: Windows, Linux, SQL, Github, Cloudflare worker, Azure, JIRA, Trello, DevOps, Agility
+**Environment**: Windows, Linux, SQL, Github, Cloudflare worker/wrangler, Azure, JIRA, Trello, DevOps, Agility, Watson
+
+
+
 
 ---
 ### 📕 Latest Blog Posts
