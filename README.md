@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [AES Encrypt and Decrypt on Cloudflare worker](https://shaokang.ga/2021/AES-Encrypt-and-Decrypt-on-Cloudflare-worker/)
+- [Additional Work](https://shaokang.ga/2021/projects/Additional-Work/)
 - [Financial organization phone app - stage 2](https://shaokang.ga/2021/projects/Financial-organization-phone-app-stage-2/)
 - [Simple Chat App](https://shaokang.ga/2021/projects/Simple-Chat-App/)
 - [Nlp.js in Expo usage](https://shaokang.ga/2021/Nlp-js-in-Expo-usage/)
-- [Publication for Financial website](https://shaokang.ga/2020/projects/Publication-of-Financial-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://shaokang.ga/)
