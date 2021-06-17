@@ -1,4 +1,4 @@
-### Hi there, I'm [Shaokang](https://shaokang.ga/) 👋
+### Hi there, I'm [Shaokang](https://shaokangjiang.github.io/) 👋
 
 <!--
 **ShaokangJiang/ShaokangJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
