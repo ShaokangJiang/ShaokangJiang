@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AES Encrypt and Decrypt on Cloudflare worker](https://shaokang.ga/2021/AES-Encrypt-and-Decrypt-on-Cloudflare-worker/)
-- [Additional Work](https://shaokang.ga/2021/projects/Additional-Work/)
-- [Financial organization phone app - stage 2](https://shaokang.ga/2021/projects/Financial-organization-phone-app-stage-2/)
-- [Simple Chat App](https://shaokang.ga/2021/projects/Simple-Chat-App/)
-- [Nlp.js in Expo usage](https://shaokang.ga/2021/Nlp-js-in-Expo-usage/)
+- [AES Encrypt and Decrypt on Cloudflare worker](https://shaokangjiang.github.io/2021/AES-Encrypt-and-Decrypt-on-Cloudflare-worker/)
+- [Additional Work](https://shaokangjiang.github.io/2021/projects/Additional-Work/)
+- [Financial organization phone app - stage 2](https://shaokangjiang.github.io/2021/projects/Financial-organization-phone-app-stage-2/)
+- [Simple Chat App](https://shaokangjiang.github.io/2021/projects/Simple-Chat-App/)
+- [Nlp.js in Expo usage](https://shaokangjiang.github.io/2021/Nlp-js-in-Expo-usage/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://shaokangjiang.github.io/)
