@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a senior in University of Wisconsin at Madison
-- 📫 How to reach me: sjiang97@wisc.edu
+- 🔭 I’m currently a Master in Computer Science and Engineering at the University of California, San Diego
+- 📫 How to reach me: shj002@ucsd.edu
 
 ---
 
