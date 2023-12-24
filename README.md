@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AES Encrypt and Decrypt on Cloudflare worker](https://shaokangjiang.github.io/2021/AES-Encrypt-and-Decrypt-on-Cloudflare-worker/)
-- [Additional Work](https://shaokangjiang.github.io/2021/projects/Additional-Work/)
-- [Financial organization phone app - stage 2](https://shaokangjiang.github.io/2021/projects/Financial-organization-phone-app-stage-2/)
-- [Simple Chat App](https://shaokangjiang.github.io/2021/projects/Simple-Chat-App/)
-- [Nlp.js in Expo usage](https://shaokangjiang.github.io/2021/Nlp-js-in-Expo-usage/)
+- [Wise grader](https://shaokangjiang.github.io/2023/Wise-grader/)
+- [Usability analysis of autocomplete](https://shaokangjiang.github.io/2023/Usability-analysis-of-autocomplete/)
+- [Simple interative Haskell game](https://shaokangjiang.github.io/2023/Simple-interative-Haskell-game/)
+- [Fighting loneliness using generative AI with avatar](https://shaokangjiang.github.io/2023/Fighting-loneliness-using-generative-AI-with-avatar/)
+- [Whether Python Type Hints are helpful for competitive programmers &lpar;CP&rpar;](https://shaokangjiang.github.io/2023/Whether-Python-Type-Hints-are-helpful-for-competitive-programmers-CP/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://shaokangjiang.github.io/)
