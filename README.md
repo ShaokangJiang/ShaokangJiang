@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wise grader](https://shaokangjiang.github.io/2023/Wise-grader/)
-- [Usability analysis of autocomplete](https://shaokangjiang.github.io/2023/Usability-analysis-of-autocomplete/)
-- [Simple interative Haskell game](https://shaokangjiang.github.io/2023/Simple-interative-Haskell-game/)
-- [Fighting loneliness using generative AI with avatar](https://shaokangjiang.github.io/2023/Fighting-loneliness-using-generative-AI-with-avatar/)
-- [Whether Python Type Hints are helpful for competitive programmers &lpar;CP&rpar;](https://shaokangjiang.github.io/2023/Whether-Python-Type-Hints-are-helpful-for-competitive-programmers-CP/)
+- [Fighting loneliness using generative AI with avatar](https://shaokang.me/2023/Fighting-loneliness-using-generative-AI-with-avatar/)
+- [Simple interative Haskell game](https://shaokang.me/2023/Simple-interative-Haskell-game/)
+- [Usability analysis of autocomplete](https://shaokang.me/2023/Usability-analysis-of-autocomplete/)
+- [Eye tracking fixation algorithm](https://shaokang.me/2023/Eye-tracking-fixation-algorithm/)
+- [JSP java emulator](https://shaokang.me/2023/JSP-java-emulator/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://shaokangjiang.github.io/)
