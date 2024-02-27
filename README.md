@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a Master student in Computer Science and Engineering at the University of California, San Diego
 - 📫 How to reach me: shj002@ucsd.edu
+- 🌱 Actively looking for a job
 
 ---
 
