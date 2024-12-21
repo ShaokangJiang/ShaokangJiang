@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 
 
 ### Skills: 
+
 <!-- Languages -->
 **Languages**
+
+
 <img src="https://api.iconify.design/logos:java.svg" width="50px" alt="Java" title="Java"> &nbsp;&nbsp;
 <img src="https://api.iconify.design/logos:python.svg" width="50px" alt="Python" title="Python"> &nbsp;&nbsp;
 <img src="https://api.iconify.design/teenyicons/rust-outline.svg" width="50px" alt="Rust" title="Rust"> &nbsp;&nbsp;
@@ -47,6 +50,8 @@ Here are some ideas to get you started:
 
 <!-- Frameworks -->
 **Frameworks**
+
+
 <img src="https://api.iconify.design/logos:react.svg" width="50px" alt="React" title="React"> &nbsp;&nbsp;
 <img src="https://api.iconify.design/logos:nuxt-icon.svg" width="50px" alt="Nuxt" title="Nuxt"> &nbsp;&nbsp;
 <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="50px" alt="Node.js" title="Node.js"> &nbsp;&nbsp;
@@ -70,6 +75,8 @@ Here are some ideas to get you started:
 
 <!-- Platforms/Tools -->
 **Platforms/Tools**
+
+
 <img src="https://api.iconify.design/logos:git-icon.svg" width="50px" alt="Git" title="Git"> &nbsp;&nbsp;
 <img src="https://api.iconify.design/logos:docker-icon.svg" width="50px" alt="Docker" title="Docker"> &nbsp;&nbsp;
 <img src="https://api.iconify.design/logos:github-icon.svg" width="50px" alt="GitHub" title="GitHub"> &nbsp;&nbsp;
@@ -86,6 +93,8 @@ Here are some ideas to get you started:
 
 <!-- Other Platforms -->
 **Other Platforms**
+
+
 <img src="https://api.iconify.design/logos:microsoft-windows.svg" width="50px" alt="Windows" title="Windows"> &nbsp;&nbsp;
 <img src="https://api.iconify.design/logos:linux-tux.svg" width="50px" alt="Linux" title="Linux"> &nbsp;&nbsp;
 <img src="https://api.iconify.design/logos:jira.svg" width="50px" alt="JIRA" title="JIRA"> &nbsp;&nbsp;
