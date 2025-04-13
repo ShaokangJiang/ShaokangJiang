@@ -116,11 +116,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyze political content on TikTok](https://shaokang.me/2025/Analyze-political-content-on-TikTok/)
 - [Fighting loneliness using generative AI with avatar](https://shaokang.me/2023/Fighting-loneliness-using-generative-AI-with-avatar/)
 - [Simple interative Haskell game](https://shaokang.me/2023/Simple-interative-Haskell-game/)
 - [Usability analysis of autocomplete](https://shaokang.me/2023/Usability-analysis-of-autocomplete/)
 - [Eye tracking fixation algorithm](https://shaokang.me/2023/Eye-tracking-fixation-algorithm/)
+- [JSP java emulator](https://shaokang.me/2023/JSP-java-emulator/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://shaokangjiang.github.io/)
