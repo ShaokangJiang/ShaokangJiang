@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 - 🔭 I am currently a PhD student in Software Engineering at the University of California, Irvine.
 - 📫 How to reach me: shj002@ucsd.edu
-- 🌱 Actively looking for Ph.D
 
 ---
 
