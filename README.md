@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a Master student in Computer Science and Engineering at the University of California, San Diego
+- 🔭 I am currently a PhD student in Software Engineering at the University of California, Irvine.
 - 📫 How to reach me: shj002@ucsd.edu
 
 ---
